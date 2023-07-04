@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "mans";
+    src: url(https://css.zohocdn.com/webfonts/latoregular/font.woff);
+}
+html, body {
+    font-family: "mans" !important;
+    color: #c3c3c3;
+}
 .inner_panel_frst {
     position: relative;
     background: #e5f3fb;
