@@ -463,7 +463,7 @@ html, body {
     background: #eae8e0;
     margin: 0;
     padding: 14px 0;
-    font-size: 28px;
+    font-size: 18px;
     font-family: "mans";;
     color: #000;
 }
@@ -476,7 +476,7 @@ html, body {
 }
 
 .cd-price img {
-    height: 58px;
+    height: 38px;
     text-align: center;
     margin: 0 auto;
 }
@@ -752,7 +752,7 @@ html, body {
     }
 
     .cd-pricing-list>li {
-        width: 23.333333%;
+        width: 16.6% !important;
         float: left
     }
 
