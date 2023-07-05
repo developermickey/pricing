@@ -48,7 +48,7 @@ html, body {
     padding-left: 40px;
     position: relative;
     margin-bottom: 12px;
-    font-family: nunitosans-semibold;
+    font-family: "mans";
     font-size: 15px;
     margin-bottom: 15px
 }
@@ -138,7 +138,7 @@ html, body {
     margin-bottom: 0;
     line-height: 50px;
     color: #df5c0a;
-    font-family: nunitosans-semibold
+    font-family: "mans";
 }
 
 .dollr {
@@ -150,7 +150,7 @@ html, body {
 }
 
 .dollr b {
-    font-family: nunitosans-semibold;
+    font-family: "mans";
     font-size: 25px!important
 }
 
@@ -159,7 +159,7 @@ html, body {
     font-size: 12px;
     margin-top: 5px;
     color: #df5c0a;
-    font-family: nunitosans-semibold
+    font-family: "mans";
 }
 
 .demo_btn {
@@ -254,7 +254,7 @@ html, body {
 
 .better_divWrap h1 {
     text-align: center;
-    font-family: nunitosans-bold;
+    font-family: "mans";
     margin: 5px 0 10px;
     font-size: 33px;
     color: #222!important
@@ -289,7 +289,7 @@ html, body {
     background: #f64f00!important;
     border: 1px solid #d74703!important;
     font-size: 16px;
-    font-family: nunitosans-bold;
+    font-family: "mans";;
     margin: 45px 0
 }
 
@@ -464,14 +464,14 @@ html, body {
     margin: 0;
     padding: 14px 0;
     font-size: 28px;
-    font-family: nunitosans-bold;
+    font-family: "mans";;
     color: #000;
 }
 
 .main-tb .cd-price {
-    height: 225px;
+    height: 100px;
     text-align: center;
-    padding: 82px 2px;
+    padding: 20px 2px 0px;
     background: #3367cc;
 }
 
@@ -999,7 +999,7 @@ html, body {
 .cd-currency,.cd-value {
     font-size: 3rem;
     font-weight: 300;
-    font-family: nunitosans-bold
+    font-family: "mans";
 }
 
 .cd-duration {
@@ -1097,7 +1097,7 @@ html, body {
     padding: 1.6em 1em;
     font-size: 15px;
     text-align: center;
-    font-family: nunitosans-bold;
+    font-family: "mans";;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis
@@ -2508,7 +2508,7 @@ html, body {
 .pricing_panel h4 {
     text-transform: capitalize;
     padding: 0;
-    font-family: NunitoSans-bold
+    font-family: "mans";
 }
 
 .pricing_panel .panel-title>a {
@@ -8407,13 +8407,13 @@ nav .top_header ul li a i {
 
 .remain_slidewrap h1 {
     font-size: 50px;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
     color: #fff
 }
 
 .remain_slidewrap h3 {
     font-size: 30px;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
     color: #fff
 }
 
@@ -8422,11 +8422,11 @@ nav .top_header ul li a i {
 }
 
 .innerpages_wrap h3,.innerpages_wrap h1,.innerpages_wrap h2 {
-    font-size: 35px;
-    margin: 0 0 40px;
+    font-size: 24px;
+    margin: 0 0;
     color: #474948;
     position: relative;
-    font-family: NunitoSans-Bold!important
+    font-family: "mans";!important
 }
 
 .innerpages_wrap h3:after {
@@ -9147,7 +9147,7 @@ nav.navbar.shrink .dropdown-menu>li>a {
     border-radius: 5px;
     padding: 16px 40px;
     font-size: 16px;
-    font-family: NunitoSans-bold
+    font-family: "mans";
 }
 
 .customer_wrap address {
@@ -14771,7 +14771,7 @@ figure.effect-lexi:hover h2,figure.effect-lexi:hover p {
 .cpf_slidewra h1 {
     font-size: 50px;
     color: #e05a27;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
 }
 
 .amount_box input {
@@ -18645,7 +18645,7 @@ a:focus,a:hover {
     text-transform: uppercase;
     color: #474948;
     font-size: 35px!important;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
     padding: 20px 0
 }
 
@@ -18660,7 +18660,7 @@ a:focus,a:hover {
 .indusrty_sectdat .industry_dataPara {
     text-transform: uppercase;
     font-size: 32px!important;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
     text-align: center;
     margin-bottom: 25px
 }
@@ -18703,7 +18703,7 @@ a:focus,a:hover {
 
 .orangeblock p b {
     font-weight: 400;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
     background: #d3450f;
     border-radius: 2px;
     padding: 2px 9px
@@ -18728,7 +18728,7 @@ a:focus,a:hover {
 .teamwrap h1,.teamwrap h2 {
     margin-bottom: 18px!important;
     text-transform: uppercase;
-    font-family: NunitoSans-Bold!important;
+    font-family: "mans";!important;
     margin-top: 35px
 }
 
