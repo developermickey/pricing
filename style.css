@@ -1003,8 +1003,8 @@ html, body {
 }
 
 .cd-duration {
-    font-size: 1.3rem;
-    color: #8dc8e4;
+    font-size: 0.9rem !important;
+    color: #ffffff !important;
     width: 100%;
     display: block;
     font-family: nunitosans-semibold
@@ -18960,3 +18960,57 @@ a:focus,a:hover {
 }
 
 /* Quicer end */
+
+/*  */
+
+#page1 {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #00a09f;
+    padding: 20px 40px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.headingsss {
+    text-align: center;
+    color: #fff !important;
+    margin-top: 5% !important;
+}
+.paras {
+    text-align: center !important;
+    color: #fff !important;
+}
+.demosssss {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+.demosssss input {
+    font-size:1rem!important ;
+    color: #fff;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    height: 30px;
+}
+select#source {
+    height: 45px;
+    font-size: 1rem;
+    color: #757575;
+}
+.submitss {
+    font-size: 1rem;
+    color: #fff;
+    background-color: #0036be;
+    padding: 15px 20px !important;
+    border: none;
+    height: 60px !important;
+}
+
+
+
+/*  */
